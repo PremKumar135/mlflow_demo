@@ -67,7 +67,8 @@ if __name__=="__main__":
 
         remote_server_uri = "https://dagshub.com/PremKumar135/mlflow_demo.mlflow"
         mlflow.set_tracking_uri(remote_server_uri)
-
+        print(mlflow.get_tracking_uri())
+        
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
         if tracking_url_type_store=='file':
             mlflow.sklearn.log_model(lr, "model")
