@@ -65,11 +65,11 @@ if __name__=="__main__":
         mlflow.log_metric("mae", mae)
         mlflow.log_metric("r2", r2)
 
-        train_pred = lr.predict(train_x)
-        signature = infer_signature(train_x, train_pred)
+        remote_server_uri = "https://dagshub.com/PremKumar135/mlflow_demo.mlflow"
+        mlflow.set_tracking_uri(remote_server_uri)
 
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
         if tracking_url_type_store=='file':
-            mlflow.sklearn.log_model(lr, "model", signature=signature)
+            mlflow.sklearn.log_model(lr, "model")
         else:
-            mlflow.sklearn.log_model(lr, "model", registered_model_name="ElasticNetWineModel", signature=signature)
+            mlflow.sklearn.log_model(lr, "model", registered_model_name="ElasticNetWineModel")
