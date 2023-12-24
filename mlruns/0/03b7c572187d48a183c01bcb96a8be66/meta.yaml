@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/premkumar/my_pc/programming/MLOPS/mlruns/0/03b7c572187d48a183c01bcb96a8be66/artifacts
+end_time: 1703413842039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03b7c572187d48a183c01bcb96a8be66
+run_name: unruly-conch-176
+run_uuid: 03b7c572187d48a183c01bcb96a8be66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703413839547
+status: 3
+tags: []
+user_id: premkumar

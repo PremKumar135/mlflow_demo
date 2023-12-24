@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/premkumar/my_pc/programming/MLOPS/mlruns/0/dcb61ecaf4df44aca0f1eb9770c4cda3/artifacts
+end_time: 1703413936132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcb61ecaf4df44aca0f1eb9770c4cda3
+run_name: rebellious-dove-557
+run_uuid: dcb61ecaf4df44aca0f1eb9770c4cda3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703413934343
+status: 3
+tags: []
+user_id: premkumar

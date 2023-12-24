@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/premkumar/my_pc/programming/MLOPS/mlruns/0/40e9151b833c4f3c9e0db2ca48e74aed/artifacts
+deleted_time: 1703409010840
+end_time: 1703407917227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 40e9151b833c4f3c9e0db2ca48e74aed
+run_name: sincere-ant-124
+run_uuid: 40e9151b833c4f3c9e0db2ca48e74aed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703407915178
+status: 3
+tags: []
+user_id: premkumar

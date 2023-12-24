@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/premkumar/my_pc/programming/MLOPS/mlruns/0/529a1e4f07d94a3d853e8ae999e50188/artifacts
+end_time: 1703414487656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529a1e4f07d94a3d853e8ae999e50188
+run_name: respected-newt-485
+run_uuid: 529a1e4f07d94a3d853e8ae999e50188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703414485428
+status: 3
+tags: []
+user_id: premkumar

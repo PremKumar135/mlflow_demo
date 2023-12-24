@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/premkumar/my_pc/programming/MLOPS/mlruns/0/d3876e2c2790411b903dd44c518f3f4d/artifacts
+end_time: 1703413872750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3876e2c2790411b903dd44c518f3f4d
+run_name: hilarious-yak-443
+run_uuid: d3876e2c2790411b903dd44c518f3f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703413871107
+status: 3
+tags: []
+user_id: premkumar
